@@ -11,12 +11,12 @@ Welcome to the **Automation Scripts** repository! This repository contains scrip
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/designlab-automation-scripts.git
-Install Dependencies:
-   npm install
-Run a Script:
-node script.js
+#Install Dependencies:
+   `npm install`
+#Run a Script:
+   `node script.js`
 Customization
-Edit the config.json file to adjust script parameters.
+Edit the  `config.json` file to adjust script parameters.
 
 Add new tasks to the script as needed.
 
